@@ -9,7 +9,7 @@ app.use(cors()); // Essential so your HTML file can communicate with this server
 // Replace these later
 webpush.setVapidDetails(
     'BDss_zpq3LAVp5drkz9NbEWBzJ-YqIRn5XOjcSi8IwsjVzwOGpMN4XZ4DAZkoxrHw9qcZxRcnJxQNYWuv9XVDIY',
-    'UHVNscgwax5OM-sdj_dUz5A1I3i8fWYDjrjHexUySUw'
+    'UHVNscgwax5OM-sdj_dUz5A1I3i8fWYDjrjHexUySUw',
         'sameershakeer77@gmail.com'
 
 );
